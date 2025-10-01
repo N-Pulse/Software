@@ -31,9 +31,10 @@ EMG/Computer Vision/EEG signal merging
 
 | 👤 Name | 📋 Project | 📧 Mail | 🔗 LinkedIn |
 |---------|-----------|---------|-------------|
-| **Darius Giannoli** | Team Leader, Grasping & Audio, Haptics | [darius.giannoli@epfl.ch](mailto:darius.giannoli@epfl.ch) | [Darius's LinkedIn](https://linkedin.com/in/...nnoli/) |
+| **Darius Giannoli** | Team Leader, Grasping & Audio, Haptics | [darius.giannoli@epfl.ch](mailto:darius.giannoli@epfl.ch) | [Darius's LinkedIn](https://linkedin.com/in/darius-giannoli/) |
 | **Gabriel Taieb** | Grasping & Audio | [gabriel.taieb@epfl.ch](mailto:gabriel.taieb@epfl.ch) | [Gabriel's LinkedIn](https://www.linkedin.com/in/gabriel-taieb/) |
-| **Aly Diagne** | Firmware | [aly.diagne@epfl.ch](mailto:aly.diagne@epfl.ch) | — | 
+| **Aly Diagne** | Firmware | [aly.diagne@epfl.ch](mailto:aly.diagne@epfl.ch) | [Aly's Linkedin] 
+(https://www.linkedin.com/in/aly-diagne-ba2a7a283/) | 
 | **Justin Décaillet** | Firmware | [justin.decaillet@epfl.ch](mailto:justin.decaillet@epfl.ch) | — |
 | **Salim Boussofara** | Haptics, Advisor | — | — |
 | **Aude-Line Fleury** | Haptics | [aude-line.fleury@epfl.ch](mailto:aude-line.fleury@epfl.ch) | — |
