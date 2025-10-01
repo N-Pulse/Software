@@ -47,4 +47,3 @@ EMG/Computer Vision/EEG signal merging
 ---
 
 *Building the future of prosthetic technology* ✨
-# Scanning
