@@ -7,3 +7,6 @@
 [submodule "Firmware"]
 	path = Firmware
 	url = https://github.com/N-Pulse/Firmware.git
+[submodule "Grasping"]
+	path = Grasping
+	url = https://github.com/N-Pulse/Grasping.git
