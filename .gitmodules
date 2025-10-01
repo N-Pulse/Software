@@ -1,3 +1,6 @@
 [submodule "Scanning"]
 	path = Scanning
 	url = https://github.com/N-Pulse/Scanning.git
+[submodule "Simulation"]
+	path = Simulation
+	url = https://github.com/N-Pulse/Simulation.git
