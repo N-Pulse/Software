@@ -1,7 +1,7 @@
-# 🦾 Software
+# 🦾 Software Repository
 
-## 📦 Repository
-**Software Repository:** [Link to repository]
+## 📦 Description
+Software Team in charge of the whole arm's software
 
 ---
 
