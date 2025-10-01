@@ -1,0 +1,3 @@
+[submodule "Scanning"]
+	path = Scanning
+	url = https://github.com/N-Pulse/Scanning.git
