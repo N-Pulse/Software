@@ -10,3 +10,6 @@
 [submodule "Grasping"]
 	path = Grasping
 	url = https://github.com/N-Pulse/Grasping.git
+[submodule "Haptics"]
+	path = Haptics
+	url = https://github.com/N-Pulse/Haptics.git
