@@ -4,3 +4,6 @@
 [submodule "Simulation"]
 	path = Simulation
 	url = https://github.com/N-Pulse/Simulation.git
+[submodule "Firmware"]
+	path = Firmware
+	url = https://github.com/N-Pulse/Firmware.git
