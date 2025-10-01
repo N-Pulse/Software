@@ -13,3 +13,6 @@
 [submodule "Haptics"]
 	path = Haptics
 	url = https://github.com/N-Pulse/Haptics.git
+[submodule "Signal_Merging"]
+	path = Signal_Merging
+	url = https://github.com/N-Pulse/Signal_Merging.git
