@@ -36,7 +36,7 @@ EMG/Computer Vision/EEG signal merging
 | **Aly Diagne** | Firmware | [aly.diagne@epfl.ch](mailto:aly.diagne@epfl.ch) | [Aly's Linkedin](https://www.linkedin.com/in/aly-diagne-ba2a7a283/) | 
 | **Justin Décaillet** | Firmware | [justin.decaillet@epfl.ch](mailto:justin.decaillet@epfl.ch) | [Justin's Linkedin](https://www.linkedin.com/in/justin-décaillet-16890b107/) |
 | **Salim Boussofara** | Haptics, Advisor | — | [Salim's Linkedin](https://www.linkedin.com/in/salim-boussofara/) |
-| **Aude-Line Fleury** | Haptics | [aude-line.fleury@epfl.ch](mailto:aude-line.fleury@epfl.ch) | — |
+| **Aude-Line Fleury** | Haptics | [aude-line.fleury@epfl.ch](mailto:aude-line.fleury@epfl.ch) | [Aude-Line's Linkedin|
 | **Pamela van den Enden** | Haptics | [pamela.vandenendenuribe@epfl.ch](mailto:pamela.vandenendenuribe@epfl.ch) | [Pamela's Linkedin](https://www.linkedin.com/in/pamela-van-den-enden-94619693/) |
 | **Raki Ben Mustapha** | Haptics | [raki.benmustapha@epfl.ch](mailto:raki.benmustapha@epfl.ch) | [Raki's Linkedin](https://www.linkedin.com/in/raki-ben-mustapha-98371a251/) |
 | **Adrien Boschung** | Signal Merging | [adrien.boschung@epfl.ch](mailto:adrien.boschung@epfl.ch) | [Adrien's Linkedin](https://www.linkedin.com/in/adrien-boschung-123abc/) |
