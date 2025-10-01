@@ -27,30 +27,22 @@ EMG/Computer Vision/EEG signal merging
 
 ---
 
-## 👥 2025 Winter Semester Team
+# 👥 2025 Winter Semester Team
 
-<table>
-  <tr>
-    <td>• Darius Giannoli</td>
-    <td>• Gabriel Taieb</td>
-    <td>• Justin Décaillet</td>
-  </tr>
-  <tr>
-    <td>• Salim Boussofara</td>
-    <td>• Aly Diagne</td>
-    <td>• Aude-Line Fleury</td>
-  </tr>
-  <tr>
-    <td>• Pamela van den Enden</td>
-    <td>• Adrien Boschung</td>
-    <td>• Oussama Jaffal</td>
-  </tr>
-  <tr>
-    <td>• Raki Ben Mustapha</td>
-    <td>• Orianne Farinelli</td>
-    <td>• Guilherme Ferreira</td>
-  </tr>
-</table>
+| 👤 Name | 📋 Project | 📧 Mail | 🔗 LinkedIn |
+|---------|-----------|---------|-------------|
+| **Darius Giannoli** | Team Leader, Grasping & Audio, Haptics | [darius.giannoli@epfl.ch](mailto:darius.giannoli@epfl.ch) | [Darius's LinkedIn](https://linkedin.com/in/...nnoli/) |
+| **Gabriel Taieb** | Grasping & Audio | [gabriel.taieb@epfl.ch](mailto:gabriel.taieb@epfl.ch) | [Gabriel's LinkedIn](https://www.linkedin.com/in/gabriel-taieb/) |
+| **Aly Diagne** | Firmware | [aly.diagne@epfl.ch](mailto:aly.diagne@epfl.ch) | — | 
+| **Justin Décaillet** | Firmware | [justin.decaillet@epfl.ch](mailto:justin.decaillet@epfl.ch) | — |
+| **Salim Boussofara** | Haptics, Advisor | — | — |
+| **Aude-Line Fleury** | Haptics | [aude-line.fleury@epfl.ch](mailto:aude-line.fleury@epfl.ch) | — |
+| **Pamela van den Enden** | Haptics | [pamela.vandenendenuribe@epfl.ch](mailto:pamela.vandenendenuribe@epfl.ch) | — |
+| **Raki Ben Mustapha** | Haptics | [raki.benmustapha@epfl.ch](mailto:raki.benmustapha@epfl.ch) | — |
+| **Adrien Boschung** | Signal Merging | [adrien.boschung@epfl.ch](mailto:adrien.boschung@epfl.ch) | — |
+| **Orianne Farinelli** | Simulation | [orianne.farinelli@epfl.ch](mailto:orianne.farinelli@epfl.ch) | — |
+| **Oussama Jaffal** | Simulation | [oussama.jaffal@epfl.ch](mailto:oussama.jaffal@epfl.ch) | — |
+| **Guilherme Ferreira** | Scanning | [guilherme.henriques...@epfl.ch](mailto:guilherme.henriquesdacostaferreira@epfl.ch) | — |
 
 ---
 
