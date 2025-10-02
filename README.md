@@ -1,6 +1,6 @@
 # 🦾 Software Repository
 
-## IMPORTANT
+## ⚠️ IMPORTANT
 When clicking on a submodule, change the branch (select *main*)
 
 ## 📦 Description
