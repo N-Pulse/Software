@@ -16,3 +16,7 @@
 [submodule "Signal_Merging"]
 	path = Signal_Merging
 	url = https://github.com/N-Pulse/Signal_Merging.git
+[submodule "Socket_Resizing"]
+	path = Socket_Resizing
+	url = https://github.com/N-Pulse/ARM-SOFT-Resizing.git
+	branch = main
