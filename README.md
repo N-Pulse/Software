@@ -1,7 +1,7 @@
 # 🦾 Software Repository
 
 ## IMPORTANT
-When clicking on a submodule, chnage the branch (select *main*)
+When clicking on a submodule, change the branch (select *main*)
 
 ## 📦 Description
 Software Team in charge of the whole arm's software
